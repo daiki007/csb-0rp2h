@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://daiki007.github.io/csb-0rp2h/static/js/main.53e7592f.chunk.js",
+    "main.js.map": "https://daiki007.github.io/csb-0rp2h/static/js/main.53e7592f.chunk.js.map",
+    "runtime-main.js": "https://daiki007.github.io/csb-0rp2h/static/js/runtime-main.87ae47bb.js",
+    "runtime-main.js.map": "https://daiki007.github.io/csb-0rp2h/static/js/runtime-main.87ae47bb.js.map",
+    "static/js/2.1f89d56f.chunk.js": "https://daiki007.github.io/csb-0rp2h/static/js/2.1f89d56f.chunk.js",
+    "static/js/2.1f89d56f.chunk.js.map": "https://daiki007.github.io/csb-0rp2h/static/js/2.1f89d56f.chunk.js.map",
+    "index.html": "https://daiki007.github.io/csb-0rp2h/index.html",
+    "static/js/2.1f89d56f.chunk.js.LICENSE.txt": "https://daiki007.github.io/csb-0rp2h/static/js/2.1f89d56f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ae47bb.js",
+    "static/js/2.1f89d56f.chunk.js",
+    "static/js/main.53e7592f.chunk.js"
+  ]
+}
